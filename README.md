@@ -4,4 +4,6 @@ Dueño
 # Desarrollador
 Nicolas Sigotto
 # Tecnologias
-HTML CSS PHP
+-HTML
+-CSS
+-PHP
