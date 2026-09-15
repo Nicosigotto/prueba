@@ -1,6 +1,41 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera página</title>
+</head>
 
-<meta charset="UTF-8">
-<title> mi primera pagina<
+<body>
+
+    <h1>¡Hola, mundo!</h1>
+
+    <h2>Mi primera página web</h2>
+
+    <p>
+        Estoy practicando HTML y aprendiendo a crear páginas web.
+    </p>
+
+    <hr>
+
+    <h3>Mis cosas favoritas</h3>
+
+    <ul>
+        <li>Programar</li>
+        <li>Los perfumes</li>
+        <li>Escuchar música</li>
+        <li>Jugar videojuegos</li>
+    </ul>
+
+    <h3>Un enlace</h3>
+
+    <a href="https://www.google.com" target="_blank">
+        Ir a Google
+    </a>
+
+    <h3>Un botón</h3>
+
+    <button>Hacer clic</button>
+
+</body>
+</html>
