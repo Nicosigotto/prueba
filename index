@@ -27,15 +27,13 @@
         <li>Jugar videojuegos</li>
     </ul>
 
-    <h3>Un enlace</h3>
+        <h3>Sobre mí</h3>
 
-    <a href="https://www.google.com" target="_blank">
-        Ir a Google
-    </a>
-
-    <h3>Un botón</h3>
-
-    <button>Hacer clic</button>
+    <p>
+        Soy Joaquín y estoy aprendiendo desarrollo de software.
+        Me interesa seguir mejorando mis conocimientos de programación
+        y desarrollo web.
+    </p>
 
 </body>
 </html>
